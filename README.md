@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @EryuMa
 - 👀 I’m interested in 3D modeling, Hydrodynamics, Renewable energy, Shipbuilding
-- 🌱 I’m currently learning MSc Maritime Engineering / Naval Architecture in the University of Southampton
-- 💞️ I’m looking to collaborate on Hydrodynamics project, Machine learning, and also I'm learning Python all the teime
+- 🌊 MSc Maritime Engineering / Naval Architecture in the University of Southampton
+- 🌱 I’m currently doing internship in WightShipyard.Co 
+- 💞️ I’m looking to collaborate on Hydrodynamics project, Machine learning, and also I'm learning Python as well as leetcode all the time
 - 📫 How to reach me : Linkedin--https://www.linkedin.com/in/eryu-ma/
 
 <!---
